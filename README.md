@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 <img src="/images/Bm_studio-07.png" alt="Alt text" title="Optional title">
 <hr>
-As an individual with a strong desire to pursue a career in software engineering, I bring a unique perspective to the field. I have previously attended the University of Toronto where I studied architecture, which has provided me with a diverse set of skills and knowledge. My background in architecture and my passion for technology have motivated me to pursue a career in software engineering, where I can apply my analytical and creative skills to design and develop innovative software solutions.
+As an individual with a strong desire to pursue a career in software engineering, I bring a unique perspective to the field. I have previously attended the University of Toronto, where I studied architecture, providing me with diverse skills and knowledge. It has provided me with a strong sense of design that I use to create aesthetically pleasing user interfaces. It has also equipped me with good project management skills that allow me to balance front and back-end development. My background in architecture and my passion for technology have motivated me to pursue a career in software engineering, where I can apply my analytical and creative skills to design and develop innovative software solutions.
 
 <hr>
 <h2> Technical Skills </h2>
